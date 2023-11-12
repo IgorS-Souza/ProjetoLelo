@@ -78,7 +78,8 @@ body{
 }
 
 #ButonHome{
-    margin-top: 500px;
+    margin-inline: 30px;
+    margin-bottom: 20px;
     justify-content: center;
     width: 100px;
     height: 100px;
@@ -88,5 +89,18 @@ body{
     background: #37C331;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     cursor: pointer;
+    display: inline-block;
 }
 
+.centerHome{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    line-break: anywhere;
+    justify-content: space-between;
+        
+}
+.logoLelo{
+    margin-bottom: 10%;
+    margin-top: 10%;
+}

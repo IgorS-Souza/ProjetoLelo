@@ -7,6 +7,7 @@
     <title>Lélo Bistro Cadastro</title>
 </head>
 <body class="BodyCad">
+    
     <form  class="FormularioCad" action="index.html" method="post">
         <div>
             <label for="Vendedor"></label>
