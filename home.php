@@ -28,10 +28,13 @@
                 <img src="imagens/Estoque.svg" style="width: 83px; height: 83px; margin-top: 15%;">
                 <p style="font-family: 'Comfortaa', sans-serif;">Estoque</p>
                </div> 
-            <div id="ButonHome">
-                <img src="imagens/Produtos.svg" style="width: 83px; height: 83px; margin-top: 15%;">
-                <p style="font-family: 'Comfortaa', sans-serif;">Produtos</p>
-               </div>
+                <div id="ButonHome">
+                    
+                    <img src="imagens/Produtos.svg" style="width: 83px; height: 83px; margin-top: 15%;">
+                    
+                    <p style="font-family: 'Comfortaa', sans-serif;">Produtos</p>
+                </div>
+               
         </div>
     </div>
 </body>
