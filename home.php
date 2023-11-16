@@ -11,7 +11,7 @@
 </head>
 <body>
     <div>
-        <div class="logoLelo">
+        <div class="logoLelo">s
             <img src="imagens/ImagemMaiorAtt.png">
         </div>
         <div class="centerHome">
