@@ -8,7 +8,7 @@
 </head>
 <body class="BodyCad">
     
-    <form  class="FormularioCad" action="index.html" method="post">
+    <form  class="FormularioCad" action="index.php" method="post">
         <div>
             <label for="Vendedor"></label>
             <input type="text" id="InputCad" placeholder=" Vendedor:"><br><br>

@@ -8,7 +8,7 @@
     <title>Lélo Bistro</title>
 </head>
 <body>
-    <form  class="Formulario" action="home.html" method="post">
+    <form  class="Formulario" action="home.php" method="post">
 
         <div>
             <label for="cpf"></label>
